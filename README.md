@@ -52,35 +52,37 @@ https://yandex.ru/jobs/ya-interview/  про этапы собеседовани
 
 
 популярные вопросы для технического интервью на Python и Django:
-https://habr.com/ru/post/439576/
-https://data-flair.training/blogs/top-python-interview-questions-answer/
-https://kirill-sklyarenko.ru/lenta/150-voprosov-na-sobesedovanie-python-bez-opyta
-https://tproger.ru/translations/python-developer-interview-guide/
-https://grishaev.me/interview/
+[1](https://habr.com/ru/post/439576/)
+[2](https://data-flair.training/blogs/top-python-interview-questions-answer/)
+[3](https://kirill-sklyarenko.ru/lenta/150-voprosov-na-sobesedovanie-python-bez-opyta/)
+[4](https://tproger.ru/translations/python-developer-interview-guide/)
+[5](https://grishaev.me/interview/)
 
-https://yandex.ru/jobs/pages/dev_interview
-https://habr.com/ru/company/yandex/blog/498366/
-https://www.youtube.com/watch?v=zU-LndSG5RE
-https://habr.com/ru/company/yandex/blog/256163/
+
+[1](https://yandex.ru/jobs/pages/dev_interview)
+[1](https://habr.com/ru/company/yandex/blog/498366/)
+[1](https://www.youtube.com/watch?v=zU-LndSG5RE)
+[1](https://habr.com/ru/company/yandex/blog/256163/)
+
+
+
 [материалы Школы backend-разработки.](https://habr.com/ru/company/yandex/blog/498856/)
 
-Задачи на собеседованиях в Яндексе (https://habr.com/ru/company/yandex/blog/206234/)
-Лекции ШАД Яндекса (https://www.youtube.com/playlist?list=PLJOzdkh8T5koEPv-R5W0ovmL_T2BjB1HX)
-Лекции КИТ Яндекса (https://www.youtube.com/playlist?list=PLdJo1XilUTZN3jw6dalF9QyYhYjV2ZC56)
-Другие образовательные материалы Яндекса (https://academy.yandex.ru/)
-М. Купер — «Advanced BASH scripting guide» (https://tldp.org/LDP/abs/html/)
-Язык обработки структурированных текстов AWK (http://lib.ru/MAN/DEMOS210/awk.txt)
+[Задачи на собеседованиях в Яндексе ](https://habr.com/ru/company/yandex/blog/206234/)
+[Лекции ШАД Яндекса ](https://www.youtube.com/playlist?list=PLJOzdkh8T5koEPv-R5W0ovmL_T2BjB1HX)
+[Лекции КИТ Яндекса ](https://www.youtube.com/playlist?list=PLdJo1XilUTZN3jw6dalF9QyYhYjV2ZC56)
+[Другие образовательные материалы Яндекса ](https://academy.yandex.ru/)
+[М. Купер — «Advanced BASH scripting guide» ](https://tldp.org/LDP/abs/html/)
+[Язык обработки структурированных текстов AWK ](http://lib.ru/MAN/DEMOS210/awk.txt)
 Т. Кормен — «Алгоритмы. Построение и анализ»
 Б. Керниган, Р. Пайк — «Практика программирования»
 М. Лутц — «Изучаем Python»
 С. МакКоннел — «Совершенный код»
-
-https://habr.com/ru/company/yandex/blog/509352/
 Э. С. Реймонд — «Искусство программирования для UNIX»
 У. Стивенс, С. Раго — «UNIX. Профессиональное программирование»
-Learn Git branching (https://learngitbranching.js.org/?locale=ru_RU)
-Linux from scratch (https://www.linuxfromscratch.org/)
-
+[Learn Git branching ](https://learngitbranching.js.org/?locale=ru_RU)
+[Linux from scratch ](https://www.linuxfromscratch.org/)
+[Как в компании развивался Python. Доклад Яндекса](https://habr.com/ru/company/yandex/blog/509352/)
 
 ####  Список интересных групп, каналов и ботов телеграм
 
