@@ -7,6 +7,9 @@
  - [Курсы](#Курсы)
  - [Видео](#Видео)
 
+<div id="header" align="center">
+  <img src="https://64.media.tumblr.com/bd145c2b00dca92434b1c27ed6402b91/3dcecbbd6e650c3c-82/s1280x1920/3024306d1319364908c5f5b3eeccb6a01deeb99c.jpg"/>
+</div>
 
 ## Статьи
 
