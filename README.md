@@ -111,4 +111,38 @@ https://yandex.ru/jobs/ya-interview/  про этапы собеседовани
 ## Видео
 
 ## Тренировочные тесты
+
+Важно уметь оценивать сложность алгоритмов
+Дополнительным плюсом будут:
+
+Понимание устройства сетей связи и основных сетевых протоколов (IP, TCP, UDP, HTTP, REST, torrent, GRPC)
+Знание базы данных, SQL
+Работа с командной строкой Unix (Ubuntu), OPS (администрирование, работа с Linux)
+Понимание многопоточного программирования
+Опыт параллельных или распределенных вычислений
+Знание основных паттернов ООП (самостоятельно попробовать их реализовать и использовать)
+
+[Разбор алгоритмических задач](https://habr.com/ru/company/yandex/blog/449890/?utm_campaign=intern-day&utm_medium=post&utm_source=ya_hire)
+[Тренировки по алгоритмам](https://yandex.ru/yaintern/algorithm-training?utm_campaign=intern-day&utm_medium=post&utm_source=ya_hire)
+
  - [Тренировочный контест Яндекс.Бекэнд](https://contest.yandex.ru/contest/28412/enter?utm_campaign=intern-day&utm_medium=post&utm_source=ya_hire), "____"
+ - [codeforces.com/blog/entry/75464](https://codeforces.com/blog/entry/75464?utm_campaign=intern-day&utm_medium=post&utm_source=ya_hire), "____"
+ - [leetcode.com](https://leetcode.com/?utm_campaign=intern-day&utm_medium=post&utm_source=ya_hire), "____"
+
+https://yandex.ru/yaintern/int_01?utm_campaign=intern-day&utm_medium=post&utm_source=ya_hire
+
+[Тренировочный контест](https://contest.yandex.ru/contest/28412/enter?utm_campaign=intern-day&utm_medium=post&utm_source=ya_hire)
+[Тренировки по алгоритмам](https://yandex.ru/yaintern/algorithm-training?utm_campaign=intern-day&utm_medium=post&utm_source=ya_hire)
+[Как проходят алгоритмические секции на собеседованиях в Яндексе](https://habr.com/ru/company/yandex/blog/449890/?utm_campaign=intern-day&utm_medium=post&utm_source=ya_hire)
+[10 ошибок, которые мешают пройти отбор на стажировку](https://academy.yandex.ru/posts/10-oshibok-kotorye-meshayut-proyti-otbor-na-stazhirovku?utm_campaign=intern-day&utm_medium=post&utm_source=ya_hire)
+[Лекции Школы бэкенд-разработки](https://www.youtube.com/watch?v=PxIqLgjtQ5Y&list=PLQC2_0cDcSKBHamFYA6ncnc_fYuEQUy0s&utm_campaign=intern-day&utm_medium=post&utm_source=ya_hire)
+[Собеседование в Яндексе](https://yandex.ru/jobs/ya-interview/?utm_campaign=intern-day&utm_medium=post&utm_source=ya_hire)
+[Академия Яндекса](https://academy.yandex.ru/?utm_campaign=intern-day&utm_medium=post&utm_source=ya_hire)
+[Блог Яндекса на Хабре](https://habr.com/ru/company/yandex/blog?utm_campaign=intern-day&utm_medium=post&utm_source=ya_hire)
+[Что такое Яндекс.Контест](https://yandex.ru/support/contest/index.html?utm_campaign=intern-day&utm_medium=post&utm_source=ya_hire)
+[Курсы и лекции по цифровым профессиям от Яндекса](https://yandex.ru/online-courses?utm_campaign=intern-day&utm_medium=post&utm_source=ya_hire)
+[LeetCode](https://leetcode.com/?utm_campaign=intern-day&utm_medium=post&utm_source=ya_hire)
+[Как подготовиться к финальному интервью](https://academy.yandex.ru/posts/kak-podgotovitsya-k-finalnomu-intervyu?utm_campaign=intern-day&utm_medium=post&utm_source=ya_hire)
+
+
+ 
