@@ -38,15 +38,14 @@
   - [tproger](https://tproger.ru/translations/sql-nosql-database-models/), [Хабр](https://habr.com/ru/post/480838/), "Базы данных. Отличие реляционных от нереляционных. SQL запросы."
   - [Алгоритмы. Сложность, сортировка, базовые алгоритмы. ](https://www.youtube.com/watch?v=ECOZDHS5DfE&list=PLQC2_0cDcSKBHamFYA6ncnc_fYuEQUy0s&index=8)
   - [Тесты](https://habr.com/ru/company/yandex/blog/517266/)  
-  - [Django][https://www.djangoproject.com/), [Django ORM](https://django.fun/tutorials/select_related-i-prefetch_related-v-django/), "Стек. Как работает Джанго, Джанго API."
-  - []
+  - [Django](https://www.djangoproject.com/), [Django ORM](https://django.fun/tutorials/select_related-i-prefetch_related-v-django/), "Стек. Как работает Джанго, Джанго API."
   - [докер](https://dker.ru/docs/), [postgres](https://academy.terrasoft.ru/docs/user/ustanovka_i_administrirovanie/razvertyvanie_onsite/server_subd/razvernut_bazu_dannykh_postgresql_linux), [nginx](https://nginx.org/ru/docs/), "Деплой. Docker, nginx, WSGI, Gunicorn. Типичная задача будет звучать так: сделайте проект, упакуйте в докер и напишите инструкцию по запуску. Разверните postgres, nginx, подключите media и static"
 
 ## Книги
 `<link>` : <https://github.com>
 
 > "Blockquotes Blockquotes", [Link](http://localhost/)
-> > [Link](http://localhost/), "Blockquotes Blockquotes"
+
 
 ## Курсы
 
