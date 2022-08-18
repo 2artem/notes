@@ -1,8 +1,10 @@
 # Путевые заметки
 
 Содержание:
- - [Hard1 skills](#Hard2-skills)
-б
+ - [Hard skills](#Hard-skills)
+   -  [Hard skills2](#Логические-задачи)
+ - 2
+
 
 ## 1
 
@@ -68,7 +70,8 @@ d
 5
 5
 5
-## Hard2 skills
+## Hard skills
+### Логические задачи
 
 *Libraries for administrative interfaces.*
 
