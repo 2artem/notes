@@ -32,4 +32,4 @@
 ## Видео
 
 ## Тренировочные тесты
- - [Тренировочный контест Яндекс.Бекэнд](https://habr.com/ru/post/230881/), "____"
+ - [Тренировочный контест Яндекс.Бекэнд](https://contest.yandex.ru/contest/28412/enter?utm_campaign=intern-day&utm_medium=post&utm_source=ya_hire), "____"
