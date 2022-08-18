@@ -39,6 +39,49 @@
   - [Django](https://www.djangoproject.com/), [Django ORM](https://django.fun/tutorials/select_related-i-prefetch_related-v-django/), "Стек. Как работает Джанго, Джанго API."
   - [докер](https://dker.ru/docs/), [postgres](https://academy.terrasoft.ru/docs/user/ustanovka_i_administrirovanie/razvertyvanie_onsite/server_subd/razvernut_bazu_dannykh_postgresql_linux), [nginx](https://nginx.org/ru/docs/), "Деплой. Docker, nginx, WSGI, Gunicorn. Типичная задача будет звучать так: сделайте проект, упакуйте в докер и напишите инструкцию по запуску. Разверните postgres, nginx, подключите media и static"
 
+https://yandex.ru/jobs/ya-interview/  про этапы собеседования.
+
+
+[Какие алгоритмы используются в разработке Яндекса](https://habr.com/ru/company/yandex/blog/498366/)
+[Примеры алгоритмических задач](https://habr.com/ru/company/yandex/blog/449890/)
+[Как решать алгоритмические задачи. часть 1](https://www.youtube.com/watch?v=0yxjWwoZtLw)
+[Как решать алгоритмические задачи. часть 2](https://www.youtube.com/watch?v=zU-LndSG5RE)
+[спорт](https://habr.com/ru/company/yandex/blog/256163/)
+
+
+
+
+популярные вопросы для технического интервью на Python и Django:
+https://habr.com/ru/post/439576/
+https://data-flair.training/blogs/top-python-interview-questions-answer/
+https://kirill-sklyarenko.ru/lenta/150-voprosov-na-sobesedovanie-python-bez-opyta
+https://tproger.ru/translations/python-developer-interview-guide/
+https://grishaev.me/interview/
+
+https://yandex.ru/jobs/pages/dev_interview
+https://habr.com/ru/company/yandex/blog/498366/
+https://www.youtube.com/watch?v=zU-LndSG5RE
+https://habr.com/ru/company/yandex/blog/256163/
+[материалы Школы backend-разработки.](https://habr.com/ru/company/yandex/blog/498856/)
+
+Задачи на собеседованиях в Яндексе (https://habr.com/ru/company/yandex/blog/206234/)
+Лекции ШАД Яндекса (https://www.youtube.com/playlist?list=PLJOzdkh8T5koEPv-R5W0ovmL_T2BjB1HX)
+Лекции КИТ Яндекса (https://www.youtube.com/playlist?list=PLdJo1XilUTZN3jw6dalF9QyYhYjV2ZC56)
+Другие образовательные материалы Яндекса (https://academy.yandex.ru/)
+М. Купер — «Advanced BASH scripting guide» (https://tldp.org/LDP/abs/html/)
+Язык обработки структурированных текстов AWK (http://lib.ru/MAN/DEMOS210/awk.txt)
+Т. Кормен — «Алгоритмы. Построение и анализ»
+Б. Керниган, Р. Пайк — «Практика программирования»
+М. Лутц — «Изучаем Python»
+С. МакКоннел — «Совершенный код»
+
+https://habr.com/ru/company/yandex/blog/509352/
+Э. С. Реймонд — «Искусство программирования для UNIX»
+У. Стивенс, С. Раго — «UNIX. Профессиональное программирование»
+Learn Git branching (https://learngitbranching.js.org/?locale=ru_RU)
+Linux from scratch (https://www.linuxfromscratch.org/)
+
+
 ####  Список интересных групп, каналов и ботов телеграм
 
  - [гитхаб](https://github.com/goq/telegram-list#%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB%D1%8B-%D0%BF%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E-%D0%B8-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5-%D0%9F%D0%9E)
