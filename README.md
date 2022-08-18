@@ -44,6 +44,17 @@
  - [гитхаб](https://github.com/goq/telegram-list#%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB%D1%8B-%D0%BF%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E-%D0%B8-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5-%D0%9F%D0%9E)
  - [Python. Подборка Telegram-каналов. Где искать разработчиков](https://getit.agency/python_telegram_ch)
 
+#### Крупнейшие конференции и митапы бэкендеров и Python-разработчиков:
+`<Конференция DevConf:>` : <https://devconf.ru/ru>
+`<Конференция PythonConf:>` : <https://conf.python.ru/moscow/2020>
+`<Конференция PyCon Russia:>` : <https://pycon.ru>
+`<Конференция PiterPy:>` : <https://piterpy.com>
+`<Конференция PyData Moscow:>` : <https://pydata.moscow>
+`<Митапы Moscow Python:>` : <http://www.moscowpython.ru>
+`<Python miniConf в Краснодаре:>` : <https://krd.dev/events/20>
+`<Pytup в Яндексе>` : <https://events.yandex.ru/?q={%22selectedFilters%22%3A[{%22type%22%3A%22tag%22%2C%22id%22%3A93%2C%22label%22%3A%22Python%22}]}>
+`<сообщество питонистов — PiterPy: >` : <https://www.meetup.com/ru-RU/piterpy/>
+
 ## Книги
 `<link>` : <https://github.com>
 
