@@ -1,7 +1,7 @@
 # Путевые заметки
 
 Содержание:
- - [Hard1 skills](#Hard2 skills)
+ - [Hard1 skills](#Hard2-skills)
 б
 
 ## 1
