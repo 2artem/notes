@@ -2,7 +2,7 @@
 
 Содержание:
  - [Статьи](#Статьи)
-   -  [Логические задачи](#Логические-задачи)
+   -  [Hard skills](#Hard-skills)
  - [Книги](#Книги)
  - [Курсы](#Курсы)
  - [Видео](#Видео)
@@ -14,12 +14,23 @@
 
 ## Статьи
 
-### Логические задачи
+### Hard skills
+
+#### Логические задачи
  - [Дюжина логических задач с собеседований](https://habr.com/ru/post/230881/), "___"
  - [Решение задачи о двух мудрецах](https://habr.com/ru/post/378593/), "___"
  - [Интересные логические задачки на собеседованиях](https://habr.com/ru/post/342304/), "___"
  - [123 задачи с IT-собеседований с разбором решений](https://tproger.ru/articles/problems/), "___"
 
+#### Вопросы по программированию
+
+ - [Дюжина логических задач с собеседований](https://habr.com/ru/post/230881/), "___"
+
+ - [Обширный обзор собеседований по Python. Советы и подсказки](https://habr.com/ru/post/439576/), "___"
+ - [На английском: 150+ Python Interview Questions and Answers for Freshers](https://data-flair.training/blogs/top-python-interview-questions-answer/), "___"
+ - [Перевод первой части статьи по ссылке выше на русский](https://kirill-sklyarenko.ru/lenta/150-voprosov-na-sobesedovanie-python-bez-opyta/), "___"
+ - [Tproger: Подготовка к собеседованию на позицию Python-разработчика. Статья-сборник переводов нескольких англоязычных статей](https://tproger.ru/translations/python-developer-interview-guide/), "___"
+ - [Большой список вопросов с ответами и подсказками от бывшего Python-разработчика Ивана Гришаева](https://grishaev.me/interview/), "___"
 
 ## Книги
 `<link>` : <https://github.com>
