@@ -11,7 +11,7 @@
 ## Статьи
 
 ### Логические задачи
- - [Дюжина логических задач с собеседований](https://habr.com/ru/post/230881/)
+ - [Дюжина логических задач с собеседований](https://habr.com/ru/post/230881/), "Blockquotes Blockquotes"
 
 ## Книги
 `<link>` : <https://github.com>
