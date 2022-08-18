@@ -68,7 +68,7 @@ d
 5
 5
 5
-## Hard1 skills
+## Hard2 skills
 
 *Libraries for administrative interfaces.*
 
