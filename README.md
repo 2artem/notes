@@ -29,7 +29,7 @@
  - [Перевод первой части статьи по ссылке выше на русский](https://kirill-sklyarenko.ru/lenta/150-voprosov-na-sobesedovanie-python-bez-opyta/), "___"
  - [Tproger: Подготовка к собеседованию на позицию Python-разработчика. Статья-сборник переводов нескольких англоязычных статей](https://tproger.ru/translations/python-developer-interview-guide/), "___"
  - [Большой список вопросов с ответами и подсказками от бывшего Python-разработчика Ивана Гришаева](https://grishaev.me/interview/), "___"
-  - [Techrocks](https://techrocks.ru/2019/02/10/best-software-engineering-principles/), [Хабр](https://habr.com/ru/post/144611/) "Принципы разработки. DRY KISS YAGNI SOLID"
+  ✔️ [Techrocks](https://techrocks.ru/2019/02/10/best-software-engineering-principles/), [Хабр](https://habr.com/ru/post/144611/) "Принципы разработки. DRY KISS YAGNI SOLID"
   - [Общие вопросы по Python](https://kirill-sklyarenko.ru/lenta/150-voprosov-na-sobesedovanie-python-bez-opyta), "___"
   - [Паттерны проектирования. Декораторы, итераторы, генераторы.](https://proglib.io/p/python-patterns)
   - [ООП. Общие понятия, синтаксис.](https://habr.com/ru/post/463125/)
