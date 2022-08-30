@@ -112,6 +112,10 @@
 
 ## Видео
 
+ - [Базы данных и SQL. Андрей Созыкин](https://www.asozykin.ru/courses/sql)
+ - [Компьютерные сети. Андрей Созыкин](https://www.asozykin.ru/courses/networks_online)
+
+
 ## Тренировочные тесты
 
 
