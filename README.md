@@ -106,7 +106,7 @@
 `<link>` : <https://github.com>
 
 > "Blockquotes Blockquotes", [Link](http://localhost/) ⏲️
-
+> Майк МакГрат - Программирование на Python для начинающих
 
 ## Курсы
 
