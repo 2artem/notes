@@ -114,6 +114,7 @@
 
  - [Базы данных и SQL. Андрей Созыкин](https://www.asozykin.ru/courses/sql) Очень сжато и толково. ✔️
  - [Компьютерные сети. Андрей Созыкин](https://www.asozykin.ru/courses/networks_online)  Очень сжато и толково. ✔️
+ - [Администрирование PostgreSQL 13. Базовый курс](https://postgrespro.ru/education/courses/DBA1)  видеокурс с практикой. ⏲️
 
 
 ## Тренировочные тесты
