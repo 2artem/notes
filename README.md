@@ -29,7 +29,7 @@
  - [Перевод первой части статьи по ссылке выше на русский](https://kirill-sklyarenko.ru/lenta/150-voprosov-na-sobesedovanie-python-bez-opyta/), "___"
  - [Tproger: Подготовка к собеседованию на позицию Python-разработчика. Статья-сборник переводов нескольких англоязычных статей](https://tproger.ru/translations/python-developer-interview-guide/), "___"
  - [Большой список вопросов с ответами и подсказками от бывшего Python-разработчика Ивана Гришаева](https://grishaev.me/interview/), "___"
- - [Techrocks](https://techrocks.ru/2019/02/10/best-software-engineering-principles/), [Хабр](https://habr.com/ru/post/144611/) "Принципы разработки. DRY KISS YAGNI SOLID - публикации" ✔️
+ - [Techrocks](https://techrocks.ru/2019/02/10/best-software-engineering-principles/), [Хабр](https://habr.com/ru/post/144611/) "Общая информация про принципы разработки. DRY KISS YAGNI SOLID (публикации)" ✔️
  - [Общие вопросы по Python](https://kirill-sklyarenko.ru/lenta/150-voprosov-na-sobesedovanie-python-bez-opyta), "___"
  - [Паттерны проектирования. Декораторы, итераторы, генераторы.](https://proglib.io/p/python-patterns)
  - [ООП. Общие понятия, синтаксис.](https://habr.com/ru/post/463125/)
@@ -112,8 +112,8 @@
 
 ## Видео
 
- - [Базы данных и SQL. Андрей Созыкин](https://www.asozykin.ru/courses/sql)
- - [Компьютерные сети. Андрей Созыкин](https://www.asozykin.ru/courses/networks_online)
+ - [Базы данных и SQL. Андрей Созыкин](https://www.asozykin.ru/courses/sql) Очень сжато и толково. ✔️
+ - [Компьютерные сети. Андрей Созыкин](https://www.asozykin.ru/courses/networks_online)  Очень сжато и толково. ✔️
 
 
 ## Тренировочные тесты
