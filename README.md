@@ -116,7 +116,7 @@
  - [Как научиться разработке на Python: видеокурс Яндекса](https://habr.com/ru/company/yandex/blog/498856/) {лекции производственников, ставят новые вопросы к размышллению} ⏲️
  - [Базы данных и SQL. Андрей Созыкин](https://www.asozykin.ru/courses/sql) {Очень сжато и толково. Тривиальные действия} ✔️
  - [Компьютерные сети. Андрей Созыкин](https://www.asozykin.ru/courses/networks_online)  {Очень сжато и толково} ✔️
- - [Администрирование PostgreSQL 13. Базовый курс](https://postgrespro.ru/education/courses/DBA1)  {Видеокурс с практикой. PostgresPro} ⏲️
+ - [Администрирование PostgreSQL 13. Базовый курс](https://postgrespro.ru/education/courses/DBA1)  {Видеокурс с практикой. PostgresPro. Максимально полезно} ⏲️
 
 
 ## Тренировочные тесты
