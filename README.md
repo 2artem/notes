@@ -162,5 +162,5 @@
  ## Списки
  - [Книги по программированию](https://progerlib.ru/) {сайт с выборкой книг} ⏲️
  - [Книги для программистов](https://t.me/progbook) {телеграм канал} ⏲️
- - [Вопросы для собеседования Python Junior](https://t.me/progbook](https://github.com/markdrrr/interview_questions_python_junior/) {} ⏲️
- - [Вопросы с собесов бэк-джунов](https://t.me/progbook](https://jagged-knuckle-fdf.notion.site/706ba72f7c0144d19d88beb03727a80d) {} ⏲️
+ - [Вопросы для собеседования Python Junior](https://github.com/markdrrr/interview_questions_python_junior/) {} ⏲️
+ - [Вопросы с собесов бэк-джунов](https://jagged-knuckle-fdf.notion.site/706ba72f7c0144d19d88beb03727a80d) {} ⏲️
