@@ -7,6 +7,7 @@
  - [Курсы](#Курсы)
  - [Видео](#Видео)
  - [Тренировочные тесты](#Тренировочные-тесты)
+ - [Списки](#Списки)
 
 <div id="header" align="center">
   <img src="https://64.media.tumblr.com/bd145c2b00dca92434b1c27ed6402b91/3dcecbbd6e650c3c-82/s1280x1920/3024306d1319364908c5f5b3eeccb6a01deeb99c.jpg" width="650">
@@ -116,6 +117,8 @@
 ## Видео
  - Бэкенд
    - [Как научиться разработке на Python: видеокурс Яндекса](https://habr.com/ru/company/yandex/blog/498856/) {лекции производственников, ставят новые вопросы к размышллению} ⏲️
+   - [Андрей Пронин](https://www.youtube.com/c/AndyPronin) {Полезный канал одного из наставников практикума Андрея Пронина} ⏲️
+   
  - БД
    - [Базы данных и SQL. Андрей Созыкин](https://www.asozykin.ru/courses/sql) {Очень сжато и толково. Тривиальные действия} ✔️
    - [Администрирование PostgreSQL 13. Базовый курс](https://postgrespro.ru/education/courses/DBA1)  {Видеокурс с практикой. PostgresPro. Максимально полезно} ⏲️
@@ -156,4 +159,7 @@
  - [Как подготовиться к финальному интервью](https://academy.yandex.ru/posts/kak-podgotovitsya-k-finalnomu-intervyu?utm_campaign=intern-day&utm_medium=post&utm_source=ya_hire) ⏲️
 
 
+ ## Списки
+ - [Книги по программированию](https://progerlib.ru/) {сайт с выборкой книг} ⏲️
+ - [Книги для программистов](https://t.me/progbook) {телеграм канал} ⏲️
  
