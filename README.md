@@ -68,7 +68,7 @@
 
 
 
- - [материалы Школы backend-разработки.](https://habr.com/ru/company/yandex/blog/498856/) ⏲️
+
 
  - [Задачи на собеседованиях в Яндексе ](https://habr.com/ru/company/yandex/blog/206234/) ⏲️
  - [Лекции ШАД Яндекса ](https://www.youtube.com/playlist?list=PLJOzdkh8T5koEPv-R5W0ovmL_T2BjB1HX) ⏲️
@@ -113,6 +113,7 @@
 
 ## Видео
 
+ - [Как научиться разработке на Python: видеокурс Яндекса](https://habr.com/ru/company/yandex/blog/498856/) {лекции производственников, ставят новые вопросы к размышллению} ⏲️
  - [Базы данных и SQL. Андрей Созыкин](https://www.asozykin.ru/courses/sql) Очень сжато и толково. ✔️
  - [Компьютерные сети. Андрей Созыкин](https://www.asozykin.ru/courses/networks_online)  Очень сжато и толково. ✔️
  - [Администрирование PostgreSQL 13. Базовый курс](https://postgrespro.ru/education/courses/DBA1)  видеокурс с практикой. ⏲️
