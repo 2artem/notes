@@ -113,6 +113,8 @@
 ## Курсы
  - Linux
    - [Введение в Linux](https://stepik.org/course/73/promo) {__} ⏲️
+ - SQL
+   - [Интерактивный тренажер по SQL](https://stepik.org/course/63054/) {__} ⏲️
 
 ## Видео
  - Бэкенд
