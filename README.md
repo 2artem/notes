@@ -164,6 +164,7 @@
 
 
  ## Списки
+ - [pymentor.by](https://pymentor.by/) {Дорожная карта, что поможет освоить PYTHON 3 в контексте задач автоматизации, веб-разработк и машинного обучения} ⏲️
  - [Книги по программированию](https://progerlib.ru/) {сайт с выборкой книг} ⏲️
  - [Книги для программистов](https://t.me/progbook) {телеграм канал} ⏲️
  - [Вопросы для собеседования Python Junior](https://github.com/markdrrr/interview_questions_python_junior/) {} ⏲️
