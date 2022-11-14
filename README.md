@@ -112,8 +112,7 @@
 
 ## Курсы
  - Python
-   -  Программирование на Python. Stepik. Основа + задачки](https://stepik.org/course/67/syllabus) {__} ✔️
-
+   -  [Программирование на Python](https://stepik.org/course/67/syllabus) {Stepik. Основа + задачки} ✔️
  - Linux
    - [Введение в Linux](https://stepik.org/course/73/promo) {__} ⏲️
  - SQL
