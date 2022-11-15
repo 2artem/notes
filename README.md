@@ -105,10 +105,11 @@
 
 ## Книги
  - Общее
-    - Код: тайный язык информатики - Чарльз Петцольд {база устройства компьютера, для гумманитариев :) } ✔️<img src="https://simg.marwin.kz/media/catalog/product/cache/8d1771fdd19ec2393e47701ba45e606d/k/o/petcold_ch_kod_taynyy_yazyk_informatiki.jpg" height="100" style="float: right;">
+    - ✔️ Код: тайный язык информатики - Чарльз Петцольд {база устройства компьютера, для гумманитариев :) } <img src="https://ruslania.com/pictures/books_photos/69/692943/o.jpg" height="100" style="float: right;">
+ 
  - Python
-   - Программирование на Python для начинающих - Майк МакГрат {база Python} ✔️<img src="https://ndc.book24.ru/resize/820x1180/iblock/119/11942593b03d8e7efbdd3df3c533920b/ace9c5e0472f91a1aad09948af772935.jpg" height="100" style="float: right;">
-   - Как устроен Python. Гид для разработчиков, программистов и интересующихся - Мэтт Харрисон {__} ⏲️<img src="https://habrastorage.org/r/w1560/webt/gp/ga/bp/gpgabppmm6stq9hdtl44adikxnq.jpeg" height="100" style="float: right;">
+   - ✔️ Программирование на Python для начинающих - Майк МакГрат {база Python} <img src="https://ndc.book24.ru/resize/820x1180/iblock/119/11942593b03d8e7efbdd3df3c533920b/ace9c5e0472f91a1aad09948af772935.jpg" height="100" style="float: right;">
+   - ⏲️ Как устроен Python. Гид для разработчиков, программистов и интересующихся - Мэтт Харрисон {__} <img src="https://habrastorage.org/r/w1560/webt/gp/ga/bp/gpgabppmm6stq9hdtl44adikxnq.jpeg" height="100" style="float: right;">
  
 
 ## Курсы
