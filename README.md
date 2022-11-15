@@ -103,6 +103,11 @@
  - `<Pytup в Яндексе>` : <https://events.yandex.ru/?q={%22selectedFilters%22%3A[{%22type%22%3A%22tag%22%2C%22id%22%3A93%2C%22label%22%3A%22Python%22}]}>
  - `<сообщество питонистов — PiterPy: >` : <https://www.meetup.com/ru-RU/piterpy/>
 
+#### Python
+
+ - ✔️ [Статья. Хабр. Магические методы](https://habr.com/ru/post/186608/)
+
+
 ## Книги
  - Общее
     - ✔️ Код: тайный язык информатики - Чарльз Петцольд {база устройства компьютера, для гумманитариев :) } <img src="https://ruslania.com/pictures/books_photos/69/692943/o.jpg" height="100" style="float: right;">
