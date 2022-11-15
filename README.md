@@ -108,7 +108,7 @@
     - Код: тайный язык информатики - Чарльз Петцольд {база устройства компьютера, для гумманитариев :) } ✔️
  - Python
    - Программирование на Python для начинающих - Майк МакГрат {база Python} ✔️
-   - Как устроен Python. Гид для разработчиков, программистов и интересующихся - Мэтт Харрисон {__} ⏲️<img src="https://cv2.litres.ru/pub/c/pdf-kniga/cover_415/42226727-mett-harrison-kak-ustroen-python-gid-dlya-razrabotchikov-programm-42226727.webp" height="100" style="float: right;">
+   - Как устроен Python. Гид для разработчиков, программистов и интересующихся - Мэтт Харрисон {__} ⏲️<img src="https://habrastorage.org/r/w1560/webt/gp/ga/bp/gpgabppmm6stq9hdtl44adikxnq.jpeg" height="100" style="float: right;">
  
 
 ## Курсы
