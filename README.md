@@ -109,8 +109,8 @@
  - Python
    - Программирование на Python для начинающих - Майк МакГрат {база Python} ✔️
    - Как устроен Python. Гид для разработчиков, программистов и интересующихся - Мэтт Харрисон {__} ⏲️
-   <div id="header" align="center" width="200">
-   <img src="https://cv2.litres.ru/pub/c/pdf-kniga/cover_415/42226727-mett-harrison-kak-ustroen-python-gid-dlya-razrabotchikov-programm-42226727.webp"/>
+   <div id="header" align="center">
+   <img src="http://programmerbook.ru/examples/images/dark_clouds.jpg" alt="Дождевая туча" height="250" style="float: left;">
    </div>
 
 ## Курсы
