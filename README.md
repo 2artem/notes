@@ -103,9 +103,16 @@
  - `<Pytup в Яндексе>` : <https://events.yandex.ru/?q={%22selectedFilters%22%3A[{%22type%22%3A%22tag%22%2C%22id%22%3A93%2C%22label%22%3A%22Python%22}]}>
  - `<сообщество питонистов — PiterPy: >` : <https://www.meetup.com/ru-RU/piterpy/>
 
+
+
+
 #### Python
 
 ✔️ [Статья. Хабр. Магические методы](https://habr.com/ru/post/186608/)
+
+
+
+
 
 
 ## Книги
@@ -115,7 +122,24 @@
  - Python
    - ✔️ Программирование на Python для начинающих - Майк МакГрат {база Python} <img src="https://ndc.book24.ru/resize/820x1180/iblock/119/11942593b03d8e7efbdd3df3c533920b/ace9c5e0472f91a1aad09948af772935.jpg" height="100" style="float: right;">
    - ⏲️ Как устроен Python. Гид для разработчиков, программистов и интересующихся - Мэтт Харрисон {__} <img src="https://habrastorage.org/r/w1560/webt/gp/ga/bp/gpgabppmm6stq9hdtl44adikxnq.jpeg" height="100" style="float: right;">
+   
+   ⏲️Изучаем Python. Том 1. 5-е изд. | Лутц Марк
  
+ SQL
+Евгений Моргунов «SQL. Базовый курс»,
+Мартин Грабер «SQL для простых смертных»
+
+
+Работа с консолью
+Habr: Базовые команды Linux для тестировщиков и не только, https://habr.com/ru/post/481398/
+Habr: Права в Linux, https://habr.com/ru/post/469667/
+Базовый курс Linux на OpenNet. https://www.opennet.ru/docs/RUS/linux_base/
+GIT
+Pro Git book. https://git-scm.com/book/ru/v2
+WEB
+Habr: REST API Best Practices, https://habr.com/ru/post/351890/
+Habr: Что на самом деле происходит, когда пользователь вбивает в браузер адрес google.com. https://habr.com/ru/company/htmlacademy/blog/254825/
+
 
 ## Курсы
  - Python
@@ -176,3 +200,5 @@
  - [Книги для программистов](https://t.me/progbook) {телеграм канал} ⏲️
  - [Вопросы для собеседования Python Junior](https://github.com/markdrrr/interview_questions_python_junior/) {} ⏲️
  - [Вопросы с собесов бэк-джунов](https://jagged-knuckle-fdf.notion.site/706ba72f7c0144d19d88beb03727a80d) {} ⏲️
+ - [Руководство по стилю SQL](https://www.sqlstyle.guide/ru/) {} ⏲️
+ 
